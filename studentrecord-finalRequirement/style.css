@@ -1,0 +1,361 @@
+body {
+    font-family: Arial, sans-serif;
+      background-image: url("blueBg.jpg");
+      background-attachment: fixed;
+      background-repeat: no-repeat;
+      background-size: cover;
+     
+  }
+  
+  .header {
+    background-color: #153546;
+    padding: 50px;
+    text-align: center;
+    color: whitesmoke;
+  } 
+
+
+  #homeContent {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+  }
+  #homeContent p {
+    background-color: #153546;
+    color: white;
+    margin: 20px;
+    width: 260px;
+    height: 250px;
+    padding: 10px;
+    border-radius: 5px;
+    font-size: 15px;
+    box-sizing: border-box;
+    margin-left: 6px;
+    margin-bottom: 10px;
+  }
+  #homeContent {
+    transform: scale(1.1);
+    transition: transform 0.3s ease-in-out;
+    transition-delay: 3s;
+    cursor: pointer;
+    margin-top: 30px;
+    box-shadow: 5px 5px 20px #153546;
+  }
+  .content:hover {
+    height: 270px;
+    width: 270px;
+    margin: 30px;
+    
+    transition-delay: 4s;
+  }
+
+
+  
+  #buttonInfo {
+    padding: 10px 20px;
+    background-color: #153546;
+    color: #fff;
+    border: none;
+    cursor: pointer;
+
+    margin-left: 45px;
+  }
+  
+  #buttonInfo:hover {
+    background-color: #ffffff;
+    color: #153546;
+  }
+  
+  #studentData {
+    background-color: #153546;
+    color: white;
+    font-size: 16px;
+    padding: 10px;
+    border-radius: 5px;
+    margin-top: 20px;
+    width: 700px;
+    margin-left: 45px;
+  }
+
+  #memberContainer {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+  }
+  #memberContainer p {
+    background-color: #153546;
+    color: white;
+    width: 270px;
+    height: 350px;
+    object-fit: cover;
+    padding: 15px;
+    border-radius: 5px;
+    margin-left: 40px;
+  }
+  
+  .image {
+    width: 150px;
+    height: 150px;
+    border-radius: 10px;
+    
+    }
+  .image:hover{
+    transform: scale(1.1);
+    transition: transform 0.3s ease-in-out;
+    cursor: pointer;
+  }
+
+
+
+  nav ul {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    justify-content: flex-end;
+    }
+    nav {
+      margin-bottom: 10px;
+    }
+    
+    nav li {
+      background-color: #153546;
+      padding: 10px 10px;
+      margin: 0px 10px;
+      border-radius: 7px;
+      border: solid #153546 2px;
+    display: inline-block;
+    font-size: 20px;
+    }
+    nav li:hover {
+      transform: scale(1.1);
+    transition: transform 0.3s ease-in-out;
+      background-color:white;
+      color: #153546;
+    }
+    nav a:hover {
+      transform: scale(1.1);
+    transition: transform 0.3s ease-in-out;
+      color: #153546;
+      padding: 20px;
+    }
+    nav a {
+    color: white;
+    padding: 20px;
+    text-decoration: none;
+    }
+  .headstyle {
+    color: #1f245e;
+    font-size: 40px;
+    margin-left: 45px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+  }
+  
+
+
+  .imageContainer {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+  }
+  
+  .imageContainer img {
+    width: 250px;
+    height: 250px;
+    border-radius: 5px;
+    background-color: whitesmoke;
+    cursor: pointer;
+  }
+  h1 {
+    margin: 5px;
+    font-size: 20px;
+  }
+  .desc {
+    font-size:17px;
+    margin: 20px;
+    visibility: hidden;
+  }
+  .card{
+    height: 250px;
+    width: 250px;
+    margin: 40px;
+    box-shadow: 5px 5px 20px #153546;
+    overflow: hidden;
+  }
+  .card:hover{
+    cursor: pointer;
+  }
+  .card:hover .intro{
+    height: 263px;
+    bottom: 274;
+    background: #153546;
+  }
+  .card:hover .desc {
+    opacity: 1;
+    visibility: visible;
+  }
+  .card:hover img{
+    transform: scale(1.1);
+    transition: transform 0.3s ease-in-out;
+  }
+  .intro {
+    height: 40px;
+    width: 250px;
+    padding: 6px;
+    box-sizing: border-box;
+    position: absolute;
+    bottom: 274px;
+    background: rgb(27, 27, 27, .5);
+    color: white;
+    transition: .5s;
+  }
+  
+
+  .card1{
+    height: 250px;
+    width: 250px;
+    margin: 40px;
+    box-shadow: 5px 5px 20px #153546;
+    overflow: hidden;
+  }
+  .card1:hover{
+    cursor: pointer;
+  }
+  .card1:hover .intro1{
+    height: 260px;
+    bottom: -56px;
+    background: #153546;
+  }
+  .card1:hover .desc {
+    opacity: 1;
+    visibility: visible;
+  }
+  .card1:hover img{
+    transform: scale(1.1);
+    transition: transform 0.3s ease-in-out;
+  }
+  .intro1 {
+    height: 40px;
+    width: 250px;
+    padding: 6px;
+    box-sizing: border-box;
+    position: absolute;
+    bottom: -56px;
+    background: rgb(27, 27, 27, .5);
+    color: white;
+    transition: .5s;
+  }
+
+
+
+  .card2{
+    height: 250px;
+    width: 250px;
+    margin: 40px;
+    box-shadow: 5px 5px 20px #153546;
+    overflow: hidden;
+  }
+  .card2:hover{
+    cursor: pointer;
+  }
+  .card2:hover .intro2{
+    height: 260px;
+    bottom: -386px;
+    background: #153546;
+  }
+  .card2:hover .desc {
+    opacity: 1;
+    visibility: visible;
+  }
+  .card2:hover img{
+    transform: scale(1.1);
+    transition: transform 0.3s ease-in-out;
+  }
+  .intro2 {
+    height: 40px;
+    width: 250px;
+    padding: 6px;
+    box-sizing: border-box;
+    position: absolute;
+    bottom: -386px;
+    background: rgb(27, 27, 27, .5);
+    color: white;
+    transition: .5s;
+  }
+
+
+
+  .card3{
+    height: 250px;
+    width: 250px;
+    margin: 40px;
+    box-shadow: 5px 5px 20px #153546;
+    overflow: hidden;
+  }
+  .card3:hover{
+    cursor: pointer;
+  }
+  .card3:hover .intro3{
+    height: 260px;
+    bottom: -716px;
+    background: #153546;
+  }
+  .card3:hover .desc {
+    opacity: 1;
+    visibility: visible;
+  }
+  .card3:hover img{
+    transform: scale(1.1);
+    transition: transform 0.3s ease-in-out;
+  }
+  .intro3 {
+    height: 40px;
+    width: 250px;
+    padding: 6px;
+    box-sizing: border-box;
+    position: absolute;
+    bottom: -716px;
+    background: rgb(27, 27, 27, .5);
+    color: white;
+    transition: .5s;
+  }
+
+
+  .card4{
+    height: 250px;
+    width: 250px;
+    margin: 40px;
+    box-shadow: 5px 5px 20px #153546;
+    overflow: hidden;
+  }
+  .card4:hover{
+    cursor: pointer;
+  }
+  .card4:hover .intro4{
+    height: 260px;
+    bottom: -1046px;
+    background: #153546;
+  }
+  .card4:hover .desc {
+    opacity: 1;
+    visibility: visible;
+  }
+  .card4:hover img{
+    transform: scale(1.1);
+    transition: transform 0.3s ease-in-out;
+  }
+  .intro4 {
+    height: 40px;
+    width: 250px;
+    padding: 6px;
+    box-sizing: border-box;
+    position: absolute;
+    bottom: -1046px;
+    background: rgb(27, 27, 27, .5);
+    color: white;
+    transition: .5s;
+  }

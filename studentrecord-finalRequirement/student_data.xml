@@ -1,0 +1,201 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<students>
+  <student>
+   <idNum>21-00123</idNum>
+    <name>John Doe</name>
+    <age>19</age>
+    <gender> Male</gender>
+    <course>Bachelor of Science in Information Technology</course>
+    <address>Talisay, Balanga City, Bataan</address>
+    <grade>1.50</grade>
+  </student>
+  <student>
+   <idNum>21-01234</idNum>
+    <name>Jane Smith</name>
+    <age>20</age>
+    <gender> Female</gender>
+    <course>Bachelor of Science in Computer Science</course>
+    <address> Cupang Central, Balanga City, Bataan</address>
+    <grade>1.75</grade>
+  </student>
+  <student>
+   <idNum>21-77625</idNum>
+    <name>Adam Johnson</name>
+    <age>19</age>
+    <gender> Male</gender>
+    <course>Bachelor of Science in Entertainment and Media Computing</course>
+    <address>Sibacan, Balanga City, Bataan</address>
+    <grade>1.25</grade>
+  </student>
+  <student>
+    <idNum>21-09172</idNum>
+    <name>Sofia Cruz</name>
+    <gender> Female</gender>
+    <address>Alas asin, Mariveles, Bataan</address>
+    <course>Bachelor of Science in Information Technology</course>
+    <age>19</age>
+    <grade>1.50</grade>
+  </student>
+  <student>
+    <idNum>21-18956</idNum>
+    <name>Maria Santos</name>
+    <gender> Female</gender>
+    <course>Bachelor of Science in Entertainment and Media Computing </course>
+    <address>Alion, Mariveles, Bataan</address>
+    <age>21</age>
+    <grade>1.75</grade>
+  </student>
+  <student>
+    <idNum>21-00067</idNum>
+    <name>Antonio Reyes</name>
+    <gender> Male</gender>
+    <address>Tenejero, Balanga City, Bataan</address>
+    <course>Bachelor of Science in Information Technology</course>
+    <age>21</age>
+    <grade>1.50</grade>
+  </student>
+  <student>
+    <idNum>21-22389</idNum>
+    <name>Sofia Garcia</name>
+    <gender> Female</gender>
+    <address>Cupang Proper, Balanga City, Bataan</address>
+    <course>Bachelor of Science in Information Technology</course>
+    <age>19</age>
+    <grade>1.50</grade>
+  </student>
+  <student>
+    <idNum>21-23345</idNum>
+    <name>Pedro Fernandez</name>
+    <gender> Male</gender>
+    <address>Camaya, Mariveles, Bataan</address>
+    <course>Bachelor of Science in Computer Science</course>
+    <age>20</age>
+    <grade>1.25</grade>
+  </student>
+  <student>
+    <idNum>21-13784</idNum>
+    <name>Ana Lopez</name>
+    <gender> Female</gender>
+    <address>Cataning, Balanga City, Bataan</address>
+    <course>Bachelor of Science in Entertainment and Media Computing</course>
+    <age>20</age>
+    <grade>1.75</grade>
+  </student>
+  <student>
+    <idNum>21-28283</idNum>
+    <name>Miguel Ramirez</name>
+    <gender> Male</gender>
+    <address>Poblacion, Mariveles, Bataan</address>
+    <course>Bachelor of Science in Information Technology</course>
+    <age>20</age>
+    <grade>1.50</grade>
+  </student>
+  <student>
+    <idNum>21-12738</idNum>
+    <name>Andrea Martinez</name>
+    <gender> Female</gender>
+    <address>Maligaya, Dinalupihan, Bataan</address>
+    <course>Bachelor of Science in Entertainment and Media Computing</course>
+    <age>19</age>
+    <grade>2.00</grade>
+  </student>
+  <student>
+    <idNum>21-10848</idNum>
+    <name>Jose Reyes</name>
+    <gender> Male</gender>
+    <address>Lamao, Limay, Bataan</address>
+    <course>Bachelor of Science in Computer Science</course>
+    <age>21</age>
+    <grade>1.25</grade>
+  </student>
+  <student>
+    <idNum>21-10938</idNum>
+    <name>Gabriela Gonzales</name>
+    <gender> Female</gender>
+    <address>San Jose, Samal, Bataan</address>
+    <course>Bachelor of Science in Information Technology</course>
+    <age>22</age>
+    <grade>1.75</grade>
+  </student>
+  <student>
+    <idNum>21-19387</idNum>
+    <name>Emmanuel Santos</name>
+    <gender> Male</gender>
+    <address>Diwa, Pilar, Bataan</address>
+    <course>Bachelor of Science in Entertainment and Media Computing</course>
+    <age>20</age>
+    <grade>1.50</grade>
+  </student>
+  <student>
+    <idNum>21-12873</idNum>
+    <name>Angela Cruz</name>
+    <gender> Female</gender>
+    <address>Bangkal, Hermosa, Bataan</address>
+    <course>Bachelor of Science in Computer Science</course>
+    <age>21</age>
+    <grade>1.25</grade>
+  </student>
+  <student>
+    <idNum>21-92837</idNum>
+    <name>Ricardo Reyes</name>
+    <gender> Male</gender>
+    <address>Alangan, Limay, Bataan</address>
+    <course>Bachelor of Science in Information Technology</course>
+    <age>22</age>
+    <grade>1.50</grade>
+  </student>
+  <student>
+    <idNum>21-10389</idNum>
+    <name>Isabella Garcia</name>
+    <gender> Female</gender>
+    <address>Cabcaben, Mariveles, Bataan </address>
+    <course>Bachelor of Science in Entertainment and Media Computing</course>
+    <age>19</age>
+    <grade>2.00</grade>
+  </student>
+  <student>
+    <idNum>21-09277</idNum>
+    <name>Alejandro Torres</name>
+    <gender> Male</gender>
+    <address>Calaguiman, Samal, Bataan</address>
+    <course>Bachelor of Science in Computer Science</course>
+    <age>20</age>
+    <grade>1.50</grade>
+  </student>
+  <student>
+    <idNum>21-10928</idNum>
+    <name>Camila Rodriguez</name>
+    <gender> Female</gender>
+    <address>Townsite, Limay, Bataan</address>
+    <course>Bachelor of Science in Computer Science</course>
+    <age>20</age>
+    <grade>1.50</grade>
+  </student>
+  <student>
+    <idNum>21-10982</idNum>
+    <name>Manuel Fernandez</name>
+    <gender> Male</gender>
+    <address>Daan Pare, Orion, Bataan </address>
+    <course>Bachelor of Science in Entertainment and Media Computing</course>
+    <age>21</age>
+    <grade>1.75</grade>
+  </student>
+  <student>
+    <idNum>21-19872</idNum>
+    <name>Rafael Martinez</name>
+    <gender> Male</gender>
+    <address>Parang, Bagac, Bataan</address>
+    <course>Bachelor of Science in Entertainment and Media Computing</course>
+    <age>22</age>
+    <grade>1.00</grade>
+  </student>
+  <student>
+    <idNum>21-10928</idNum>
+    <name>Mariana Lopez</name>
+    <gender> Female</gender>
+    <address>Tagumpay, Orani, Bataan</address>
+    <course>Bachelor of Science in Computer Science</course>
+    <age>20</age>
+    <grade>1.50</grade>
+  </student>
+</students>
